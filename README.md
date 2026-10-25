@@ -162,8 +162,8 @@ The prompt log should contain the original, unedited conversations or public cha
 
 ## 11. Live Application
 
-- **Frontend:** https://car-dealership-frontend-hx2p.onrender.com/
-- **Backend API:** https://car-dealership-74v8.onrender.com
+- **Frontend:** https://car-dealership-frontend-hx2p.onrender.com
+- **Backend API:** https://car-dealership-backend-p6k0.onrender.com
 
 The deployed frontend and backend can be tested through their respective public URLs. The backend API is not the website's user interface.
 
